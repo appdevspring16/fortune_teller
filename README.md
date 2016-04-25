@@ -1,6 +1,6 @@
-## Fortune Teller
+# Fortune Teller
 
-### Setup
+# Setup
 
  1. Clone this repository.
  1. **Create a branch for your work.**
