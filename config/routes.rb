@@ -16,7 +16,7 @@ Rails.application.routes.draw do
   get("/zodiacs/leo",        { :controller => "zodiacs",  :action => "lion" })
   get("/zodiacs/virgo",      { :controller => "zodiacs", :action => "maiden" })
   get("/zodiacs/libra",       { :controller => "zodiacs", :action => "scales" })
-  # get("/zodiac/scorpio",      { :controller => "zodiacs", :action => "scorpion" })
+  get("/zodiacs/scorpio",      { :controller => "zodiacs", :action => "scorpion" })
   # get("/zodiacs/sagittarius", { :controller => "zodiacs", :action => "archer" })
   # get("/zodiacs/capricorn",   { :controller => "zodiacs", :action => "goat" })
   # get("/zodiacs/aquarius",    { :controller => "zodiacs", :action => "waterbearer" })
